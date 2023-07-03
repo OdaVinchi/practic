@@ -1,0 +1,114 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Playfair+Display:ital,wght@0,400;0,500;0,600;0,700;0,800;0,900;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Montserrat', sans-serif;
+    background-color: #1A1A1D;
+}
+a{
+    list-style: none;
+    text-decoration: none;
+}
+
+//АДМИНКА САМА
+
+// Просмотр таблицы
+
+table{
+    margin-left: 100px;
+}
+
+td{
+    padding: 30px;
+    width: 150px;
+    border: 1px;
+    background-color: white;
+}
+
+
+th{
+    padding: 30px;
+    width: 150px;
+    color: white;
+    background-color: 787878;
+}
+
+a{
+    color: #1A1A1D;
+    background-color: white;
+}
+
+.del{
+    color: 8E062;
+}
+
+// Добавление 
+
+
+div{
+    margin-top: 20px;
+    margin-left: 100px;
+    height: 400px;
+
+    form{
+        margin-top: 40px;
+    }
+}
+
+
+h1{
+    color: #FFF;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+p{
+    color: #787878;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+
+input{
+    width: 240px;
+    background-color: #1A1A1D;
+    color: #787878;
+    border:0;
+    margin: 10px 0;
+    height: 30px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    padding-left: 10px;
+    
+    border-color: #8E0629;
+    border-bottom-width: 1px;
+    border-style: solid;
+    outline: none;
+    user-select: none;
+}
+
+button{
+
+    width: 240px;
+    height: 33px;
+    top: 482px;
+    background: #8E0629;
+    border-radius: 5px;
+    border: none;
+
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 18px;
+    color: #787878;
+}
+
+
+
+
